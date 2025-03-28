@@ -53,5 +53,6 @@ This project tracks the pufETH conversion rate. The backend is built using `sqli
 - **Frontend deployment**: Set up deployment for the frontend application, possibly using Vercel or a similar platform.
 - **Deployment**: Automate the deployment process using CI/CD pipelines to deploy the backend and frontend together or independently.
 - **Tests**: Add unit, integrational and e2e tests
+- **UI**: Choose framework and create a perfect UI/UX
 
 Feel free to contribute, suggest improvements, or refactor sections as necessary.
