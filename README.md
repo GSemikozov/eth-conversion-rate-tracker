@@ -4,3 +4,15 @@
 
 - frontend
 - backend
+
+### Backend
+
+```
+yarn && yarn dev
+```
+
+### Frontend
+
+```
+yarn && yarn dev
+```
