@@ -52,5 +52,6 @@ This project tracks the pufETH conversion rate. The backend is built using `sqli
 - **Microservice architecture**: We could consider splitting the backend into a separate repository, containerized with Docker, and use a more robust database like PostgreSQL for scalability.
 - **Frontend deployment**: Set up deployment for the frontend application, possibly using Vercel or a similar platform.
 - **Deployment**: Automate the deployment process using CI/CD pipelines to deploy the backend and frontend together or independently.
+- **Tests**: Add unit, integrational and e2e tests
 
 Feel free to contribute, suggest improvements, or refactor sections as necessary.
