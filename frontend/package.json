@@ -1,0 +1,24 @@
+{
+  "name": "pufeth-frontend",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.69.2",
+    "axios": "^1.6.2",
+    "next": "^14.x.x",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "recharts": "^2.15.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "@types/react": "^18.x.x",
+    "@types/react-dom": "^18.x.x",
+    "typescript": "^5.2.2"
+  }
+}

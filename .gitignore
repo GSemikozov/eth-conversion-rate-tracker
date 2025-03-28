@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Build output (compiled files, etc.)
+dist/
+.next/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# .env files (to keep environment variables secure)
+.env
+
+# DB
+backend/database.sqlite
